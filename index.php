@@ -4,7 +4,7 @@
     <titl>eWeb Development</title>
   </head>
   <body>
-    <h1>ชื่อ รจนา หอมประสิทธิ์</h1>
-    <h1>ชื่อเล่น แป้ง</h1>
+    <h2><center>ชื่อ รจนา หอมประสิทธิ์</center></h2>
+    <h2>ชื่อเล่น แป้ง</h2>
   </body>
 </html>
