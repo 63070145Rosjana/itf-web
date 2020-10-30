@@ -1,7 +1,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <titleWeb Development</title>
+    <titl>eWeb Development</title>
   </head>
   <body>
     <h1>ชื่อ รจนา หอมประสิทธิ์</h1>
