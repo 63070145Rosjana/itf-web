@@ -8,7 +8,7 @@
     <h2><center>ชื่อเล่น แป้ง</center></h2>
     <img src="cat.jpg">
     <br>
-    <img src="cat2.jpg">
+    <img src="cat3.jpg">
     <a href="https://www.it.kmitl.ac.th/th/">This is a Link</a>
   </body>
 </html>
